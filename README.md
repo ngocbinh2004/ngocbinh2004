@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vo Dinh Ngoc Binh</h1>
 <h3 align="center">A passionate frontend developer</h3>
+- 📄 [My CV](https://github.com/ngocbinh2004/ngocbinh2004/blob/main/CV__VoDinhNgocBinh.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
