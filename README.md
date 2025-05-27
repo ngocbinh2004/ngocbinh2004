@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 📬 Contact me [vdnbinh.work@gmail.com](mailto:vdnbinh.work@gmail.com)
+<br>
 📄 [My CV](https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing)
 
 ---
