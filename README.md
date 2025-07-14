@@ -14,11 +14,9 @@
 <br>
 
 - A passionate Information Technology student at VLU
-- Love to build LLMs and Computer Vision project
+- Love building web and app projects
 - To get more information about me, this is my [Portfolio](https://linkedin.com/in/camvat04)
 - I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing)
-- This is our first paper, published at **IUKM 2025**: [An Interactive System For Visual Data Retrieval
-  From Multimodal Input](https://link.springer.com/chapter/10.1007/978-981-96-4606-7_29)
 
 ![](https://komarev.com/ghpvc/?username=ngocbinh2004)
 <br>
