@@ -15,7 +15,7 @@
 
 - A passionate Information Technology student at VLU
 - Love building web and app projects
-- To get more information about me, this is my [Portfolio](https://linkedin.com/in/camvat04)
+- To get more information about me, this is my [Portfolio](https://portfolio-ngocbinh.vercel.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing)
 
 ![](https://komarev.com/ghpvc/?username=ngocbinh2004)
