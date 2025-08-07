@@ -14,10 +14,10 @@
     <td>
       <ul>
         <li>A passionate Information Technology student at <b>Van Lang University (VLU)</b></li>
-        <li>Love building web and app projects</li>
-        <li>More about me: <a href="https://portfolio-ngocbinh.vercel.app/" target="_blank">Portfolio</a></li>
-        <li>My Resume: <a href="https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing" target="_blank">View here</a></li>
-        <li>Open for Internship or new job opportunities</li>
+        <li>I enjoy building websites and mobile apps</li>
+        <li>Learn more about me: <a href="https://portfolio-ngocbinh.vercel.app/" target="_blank">Portfolio</a></li>
+        <li>Check out my CV: <a href="https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing" target="_blank">View here</a></li>
+        <li>Looking for internship or job opportunities</li>
       </ul>
     </td>
     <td align="center" width="280">
