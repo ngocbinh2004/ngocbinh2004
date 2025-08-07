@@ -26,10 +26,5 @@
   </tr>
 </table>
 
----
-
-I'm a self-taught frontend developer who enjoys turning ideas into functional and impactful digital experiences.  
-I thrive on learning, building, and constantly improving my skills.  
-My goal is to build clean, accessible, and user-friendly applications that make life better.
 
 [![](https://komarev.com/ghpvc/?username=ngocbinh2004)](https://github.com/ngocbinh2004)
