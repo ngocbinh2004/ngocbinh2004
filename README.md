@@ -7,17 +7,17 @@
 </p> 
 -->
 
-## 🌟 About me
+## <picture><img src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b3ji742s4rltlpkabt6hjxjd9o8k5y66bdzh6nfy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 30px></picture> About me
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>🎓 A passionate Information Technology student at <b>Van Lang University (VLU)</b></li>
-        <li>🔭 Love building web and app projects</li>
-        <li>🌱 More about me: <a href="https://portfolio-ngocbinh.vercel.app/" target="_blank">Portfolio</a></li>
-        <li>📄 My Resume: <a href="https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing" target="_blank">View here</a></li>
-        <li>🤝 Open for Internship or new job opportunities</li>
+        <li>A passionate Information Technology student at <b>Van Lang University (VLU)</b></li>
+        <li>Love building web and app projects</li>
+        <li>More about me: <a href="https://portfolio-ngocbinh.vercel.app/" target="_blank">Portfolio</a></li>
+        <li>My Resume: <a href="https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing" target="_blank">View here</a></li>
+        <li>Open for Internship or new job opportunities</li>
       </ul>
     </td>
     <td align="center" width="280">
