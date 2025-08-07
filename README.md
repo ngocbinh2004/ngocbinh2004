@@ -15,8 +15,8 @@
       <ul>
         <li>A passionate Information Technology student at <b>Van Lang University (VLU)</b></li>
         <li>I enjoy building websites and mobile apps</li>
-        <li>Learn more about me: <a href="https://portfolio-ngocbinh.vercel.app/" target="_blank">Portfolio</a></li>
-        <li>Check out my CV: <a href="https://drive.google.com/file/d/1Tv4BKJxjedglf4uMU_xEJjjESwFsq-8D/view?usp=sharing" target="_blank">View here</a></li>
+        <li>Learn more about me: <a href="https://desbyngocbinhportfolio.vercel.app/" target="_blank">Portfolio</a></li>
+        <li>Check out my CV: <a href="https://drive.google.com/file/d/1fu50xE9EdcAi8ZOK6IMhZhlR5CBlsLkE/view?usp=sharing" target="_blank">View here</a></li>
         <li>Looking for internship or job opportunities</li>
       </ul>
     </td>
