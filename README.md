@@ -13,9 +13,7 @@
 <table>
   <tr>
     <td width="65%">
-      
-<!-- About me text -->
-  
+
 <h2><img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"> About me</h2>
 
 - 🎓 A passionate Information Technology student at VLU  
